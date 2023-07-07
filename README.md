@@ -3,7 +3,7 @@
 ## Build Docker Image
 
 ```shell
-docker image build --tag whisper:latest .
+docker image build --tag whisper:latest
 ```
 
 ## Run `whisper` Command
